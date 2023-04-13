@@ -1,0 +1,20 @@
+{
+  "ENMITY_GENERAL": "Общие",
+  "ENMITY_PLUGINS": "Плагины",
+  "ENMITY_THEMES": "Темы",
+  "ENMITY_UPDATER": "Обновление",
+  "ENMITY_DEBUG_LOGS": "Журнал отладки",
+  "ENMITY_SEARCH_PLUGINS": "Поиск плагинов...",
+  "ENMITY_SEARCH_THEMES": "Поиск тем...",
+  "ENMITY_SEARCH_ASSETS": "Поиск ресурсов...",
+  "ENMITY_DEVELOPMENT_SETTINGS": "Настройки разработчика",
+  "ENMITY_DEBUG_BRIDGE_IP": "IP-адрес отладки",
+  "ENMITY_DEBUG_BRIDGE_CONNECT": "Подключаться к отладочному мосту при запуске",
+  "ENMITY_DEBUG_BRIDGE": "Мост отладки",
+  "ENMITY_TOAST_SETTINGS": "Настройки Баннеров",
+  "ENMITY_ASSET_BROWSER": "Браузер ресурсов",
+  "ENMITY_ADDON_NO_DESCRIPTION": "Нету описания.",
+  "ENMITY_INSTALL": "Инсталлировать",
+  "ENMITY_INSTALL_TITLE": "Инсталлировать {type}",
+  "ENMITY_ADDON_FAILED": "Не удалось загрузить аддон: {error}"
+}

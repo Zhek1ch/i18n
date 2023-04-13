@@ -1,0 +1,20 @@
+{
+    "ENMITY_GENERAL": "Загальні",
+    "ENMITY_PLUGINS": "Плагіни",
+    "ENMITY_THEMES": "Теми",
+    "ENMITY_UPDATER": "Оновлення",
+    "ENMITY_DEBUG_LOGS": "Журнал Відладки",
+    "ENMITY_SEARCH_PLUGINS": "Пошук плагінів...",
+    "ENMITY_SEARCH_THEMES": "Пошук тем",
+    "ENMITY_SEARCH_ASSETS": "Пошук Ресурсів...",
+    "ENMITY_DEVELOPMENT_SETTINGS": "Налаштування розробника",
+    "ENMITY_DEBUG_BRIDGE_IP": "IP-адрес Відладки",
+    "ENMITY_DEBUG_BRIDGE_CONNECT": "Підключатися до мосту налагодження під час запуску",
+    "ENMITY_DEBUG_BRIDGE": "Міст Відладки",
+    "ENMITY_TOAST_SETTINGS": "Налаштування Банерів",
+    "ENMITY_ASSET_BROWSER": "Браузер Ресурсів",
+    "ENMITY_ADDON_NO_DESCRIPTION": "Немає опису.",
+    "ENMITY_INSTALL": "Інсталювати",
+    "ENMITY_INSTALL_TITLE": "Інсталювати {type}",
+    "ENMITY_ADDON_FAILED": "Не вдалося завантажити аддон: {error}"
+  }
